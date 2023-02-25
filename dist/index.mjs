@@ -31,7 +31,7 @@ function __awaiter(thisArg, _arguments, P, generator) {
 var appId = "OMB_CVY_AND_6B0";
 var appSecret = "SR8j4hrkcuZYkiRpxQFLEEUkFyMwYXyhvCpm";
 var optionalClientScope = "";
-var requiredClientScope = "onstar gmoc user_trailer user priv";
+var requiredClientScope = "onstar gmoc user_trailer user";
 var serviceUrl = "https://api.gm.com";
 var userAgent = "Mozilla/5.0 (Linux; U; Android 9; en-US; Google Pixel 2 Build/PI)";
 var onStarAppConfig = {
